@@ -1,4 +1,4 @@
-# React Alert
+# React Alert - (with Normal, Error, Success Type)
 
 ## Overview
 
